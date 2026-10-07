@@ -1,0 +1,6 @@
+{
+  "name": "RAGHU FRESH - Farm Fresh Produce & Store",
+  "description": "Farm-fresh vegetables, organic fruits, daily greens, and artisanal country dairy delivered fresh. Customer storefront and live store management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
